@@ -7,7 +7,7 @@
 
 ## 🛠️ Main Skills:
 - Base: math, git
-- Python: pyqt5, igraph, bs4
+- Python: pyqt5, *igraph*, *bs4*
 - ML: pandas, scikit-learn, pytorch, matplotlib, plotly
 
 ## 📊 Some Stats:
