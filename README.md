@@ -1,7 +1,7 @@
 # Hi There 👋
 
 ## 👨‍💻 About Me:
-- 👨‍🎓 Omsk State University (2021 - present)
+- 👨‍🎓 Omsk State University (2021 - 2025)
 - 🐍 Python development
 - 👩‍🔬 Machine Learning
 
