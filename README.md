@@ -1,7 +1,8 @@
 # Hi There 👋
 
 ## 👨‍💻 About Me:
-- 👨‍🎓 Omsk State University (2021 - 2025)
+- 👨‍🎓 Omsk State University (2021 - 2025) -  Bachelor degree
+- 👨‍🎓 Central University (2025 - 2027) -  Master degree
 - 🐍 Python development
 - 👩‍🔬 Machine Learning
 
